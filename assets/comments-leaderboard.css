@@ -35,9 +35,13 @@ ol.leaderboard-leaders {
 
 /* TILE */
 
-.leaderboard-leaders .leader-tile {
+.leaderboard-leaders li.leader-tile {
+	border-bottom: 0;
 	color: #fff;
-	margin-bottom: 0;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	text-indent: 0;
 }
 
 .leader-tile-0 {
