@@ -12,7 +12,7 @@ Let the games begin! The Comments Leaderboard ranks your top commentators in a w
 
 == Description ==
 
-The Comments Leaderboard was carefully designed to add a new twist to rewarding the top commentators on your blog and create a more addicting comment experience for your readers.
+The [The Comments Leaderboard](https://kolakube.com/comments-leaderboard/) was carefully designed to add a new twist to rewarding the top commentators on your blog and create a more addicting comment experience for your readers.
 
 Each month, the 5 most active commenters throughout your blog will be listed and ranked from most comments posted to the least.
 
